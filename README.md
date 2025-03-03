@@ -24,7 +24,7 @@ Use the Makefile to run application - install, linting check, pytest, AWS deploy
 make all
 ```
 
-### Run locally
+### Otherwise, run locally
 ```
 python main.py
 ```
