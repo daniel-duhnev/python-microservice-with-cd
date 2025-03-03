@@ -28,6 +28,6 @@ make all
 ```
 python main.py
 ```
-The API will be available at http://0.0.0.0:8080.
+The API will be available at http://0.0.0.0:8080
 
 
